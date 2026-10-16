@@ -1,3 +1,8 @@
 ﻿h1 {
-  background-color: deepskyblue;
+  background-color: aqua;
+}
+div.nave {
+  background: orange;
+  padding: 8px;
+  padding-left: 0%;
 }
