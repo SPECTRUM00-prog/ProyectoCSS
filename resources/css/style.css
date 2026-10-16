@@ -32,4 +32,5 @@ a:hover {
   height: 100px;
   background: rgb(128, 128, 184);
   padding: 20px;
+  border: 2px solid rgb(132, 0, 255);
 }
